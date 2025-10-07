@@ -1,4 +1,3 @@
-// WhatsApp Shortlink Generator (wa.me only, no prefilled message)
 
 document.addEventListener('DOMContentLoaded', () => {
   const phoneEl = document.getElementById('phone')
