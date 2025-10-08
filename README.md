@@ -33,7 +33,7 @@ A simple web app that lets you quickly generate shareable WhatsApp links for you
 
 Here’s what the WhatsApp Link Generator looks like:
 
-![App Screenshot](/assets/Screenshot%20from%202025-10-08%2000-24-32.png)
+![App Screenshot](/assets/Screenshot%20from%202025-10-08%2009-04-01.png)
 
 ## Example Output
 https://wa.me/254712345678
